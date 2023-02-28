@@ -90,7 +90,8 @@ const Projects = () => {
           href="https://thedojosite-393ba.web.app/"
           target="_blank"
           rel="noreferrer" >
-          <Project title="Project Management App" explanation="With signing up with a fake email you can visit my Project Management website made with React and Firebase. You can leave a comment if you want!" />
+          <Project title="Project Management App" explanation="With signing up with a fake email you can visit my Project Management website made with React and Firebase.
+          You can leave a comment if you want!" />
           </a>
 
           {/* ROW 2 */}
@@ -105,7 +106,8 @@ const Projects = () => {
           href="https://denizsarikas-pitonassignment.web.app/"
           target="_blank"
           rel="noreferrer" >
-          <Project title="Book Site" explanation="This was an assignment project for a company which I made. I used their backend and PostManApi's to login, register and getting the book data. If website does not work properly it is because they shutdown the backend and api services." />
+          <Project title="Book Site" explanation="This was an assignment project for a company which I made just in two days. I used their backend and PostManApi's to login, register and getting the book data.
+          If website does not work properly it is because they shutdown the backend and api services." />
           </a>
 
           <Project title="project-5" />
